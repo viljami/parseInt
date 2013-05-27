@@ -1,4 +1,6 @@
-# Char * to Int
+# ParseInt
+
+The first command line parameter is parsed to int. 
 
  Languages:
   * C
