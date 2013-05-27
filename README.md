@@ -2,10 +2,6 @@
 
 The first command line parameter is parsed to int. 
 
- Languages:
-  * C
-  * JavaScript - Node.js
-
 ## Run
 
 C
