@@ -1,4 +1,16 @@
-parseInt
-========
+# Char * to Int
 
-Parse the first command line argument into int.
+ Languages:
+  * C
+  * JavaScript - Node.js
+
+## Run
+
+C
+
+    gcc main.js
+    ./a.out <string>
+
+Node.js
+
+    node main.js <string>
