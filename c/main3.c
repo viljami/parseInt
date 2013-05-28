@@ -2,7 +2,7 @@
 
 void main(int argc, char** argv)
 {
-    if( argc > 0 ) {
+    if( argc > 1 ) {
     	printf("String : %s\n", argv[ 1 ] );
     	printf("Integer: %i\n", get_integer_from_string( argv[ 1 ] ));
     }
